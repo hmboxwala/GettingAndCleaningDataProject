@@ -1,6 +1,6 @@
 ## Codebook for the tidy dataset
 
-This dataset contains 81 variables/features. The original dataset was from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ which was 
+This dataset contains 81 variables/features and 180 observations. The original dataset was from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ which was 
 collected from the accelerometers from the Samsung Galaxy S smartphone. Then a set of variables were estimated from these signals such as mean(), std(), max(), min().
 
 ### The first two variables are:
